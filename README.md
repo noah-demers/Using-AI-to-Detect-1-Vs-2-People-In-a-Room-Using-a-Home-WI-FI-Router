@@ -1,5 +1,5 @@
 # Using-AI-to-Detect-1-Vs-2-People-In-a-Room-Using-a-Home-WI-FI-Router
-##Please view my report pdf in this repository to view the final report on this work. 
+## Please view my report pdf in this repository to view the final report on this work. 
 
 Also note that these two files:
 X_csi_50Hz_2x2_2.4ghz.npy
